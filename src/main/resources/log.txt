@@ -1,0 +1,3 @@
+[2023-02-01 20:45:31][INFO][Massage: info message to file]
+[2023-02-01 20:45:46][INFO][Massage: info message to file]
+[2023-02-01 20:45:46][DEBUG][Massage: debug message to file]
